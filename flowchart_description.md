@@ -63,7 +63,7 @@ A persistent identifier (PID) is a long-lasting reference to a document, file, p
 
 ### 8. Video materials
 
-Videos of lectures are very valuable materials for both learners and trainers to reuse materials. For sharing of videos you can use YouTube or Vimeo. These platforms are great for sharing and viewing videos, but that they are not for long-term storage. For archiving, you can use Zenodo.
+Videos of lectures are very valuable materials for both learners and trainers to reuse materials. For sharing videos you can use YouTube or Vimeo. These platforms are great for sharing and viewing videos, but they are not for long-term storage. For archiving, you can use Zenodo.
 
 <!--  **@SIB:** we use the [SIB YouTube channel](https://www.youtube.com/@SIBTraining). More information [here](../procedure/record_lectures.md). Currently, we do not have a procedure in place for long-term storage. However, they are stored on the SIB servers.-->
 
@@ -71,7 +71,7 @@ Videos of lectures are very valuable materials for both learners and trainers to
 
 Materials that are hosted on GitHub are often hard to find, especially if they are not indexed elsewhere. Glittr.org is a platform that indexes GitHub repositories and makes them findable. It also provides additional metadata based on the metadata available in the GitHub repository.
 
-<!--  **@SIB:** All SIB courses on GitHub should be available from Glittr.org. If your course material is missing, submit it at [https://glittr.org/contribute](https://glittr.org/contribute) -->
+**@ELIXIR:** All ELIXIR courses on GitHub should be available from Glittr.org. If your course material is missing, submit it at [https://glittr.org/contribute](https://glittr.org/contribute)
 
 ### 10. TeSS
 
