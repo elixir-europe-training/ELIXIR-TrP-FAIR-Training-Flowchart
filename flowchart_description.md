@@ -53,7 +53,7 @@ ELIXIR courses are typically hosted within the [ELIXIR Training GitHub organisat
 
 Zenodo is a repository that allows you to deposit your materials and assign a DOI to them. It is a great way to make your materials persistent and findable. Zenodo can be used to host training materials, but also to host other materials like software, data, and publications. 
 
-<--  **@SIB:** If you are submitting course material to Zenodo, make sure you add it to the [SIB training community](https://zenodo.org/communities/sib-training/). This way, all SIB training materials are findable in one place. -->
+<--  **@SIB:** If you are submitting course material to Zenodo, make sure you add it to the [SIB training community](https://zenodo.org/communities/sib-training/). This way, all SIB training materials are findable in one place. >
 
 ### 7. Persistent identifier
 
