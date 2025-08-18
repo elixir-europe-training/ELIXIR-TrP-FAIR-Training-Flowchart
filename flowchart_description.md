@@ -59,7 +59,7 @@ Zenodo is a repository that allows you to deposit your materials and assign a DO
 
 A persistent identifier (PID) is a long-lasting reference to a document, file, page, or other object. It is used to ensure that the object can always be found, even if the URL changes. The most common PID is the DOI (Digital Object Identifier), which is used for scientific publications. For training materials, the DOI is often used, but there are  PIDs that can be used as well. PIDs are typically assigned if you register your materials in a database or registry.
 
-**@ELIXIR:** For SIB courses, we recommend using Zenodo, which assigns a DOI to your materials. 
+**@ELIXIR:** For ELIXIR courses, we recommend using Zenodo, which assigns a DOI to your materials. 
 
 ### 8. Video materials
 
