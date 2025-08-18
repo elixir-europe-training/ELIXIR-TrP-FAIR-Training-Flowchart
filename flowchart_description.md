@@ -15,7 +15,7 @@ Using metadata is important for making your materials findable and reusable. It 
 
 Typically, the standard used depends on the registry or database you are using. So, the registries decide on the standards they use. However, one commonly used standard is the [Bioschemas Training Material standard](https://bioschemas.org/profiles/TrainingMaterial/1.0-RELEASE). This standard is used by amongst others the [TeSS](https://tess.elixir-europe.org/) registry. Another frequently used standard for metadata describing training material is the one used by [zenodo](https://about.zenodo.org/principles/). 
 
-**@ELIXIR:** if you want your training materials to be displayed in TeSS, we recommend you to annotate them with the the TrainingMaterial profile from Bioschemas.
+**@ELIXIR:** if you want your training materials to be displayed in TeSS, we recommend you to annotate them with the TrainingMaterial profile from Bioschemas.
 
 ### 2. Attribution
 
@@ -35,7 +35,7 @@ Without a license, the default copyright laws apply, meaning that no one can use
 
 ### 4. Accessibility 
 
-In order to make materials open for re-use, it is important that potential re-users can easily access them, that they are in a format that can be re-used, and that they are persistently available. (Internal) servers and cloud instances typically do not a very good job in this, because they are often not stable in terms of permissions, availability and persistence. Therefore, it is recommended to use GitHub linked with Zenodo, or, if you are not using GitHub, host materials on Zenodo. If Zenodo is not an option, you can also use other repositories like Figshare, or institutional repositories. 
+In order to make materials open for re-use, it is important that potential re-users can easily access them, that they are in a format that can be re-used, and that they are persistently available. (Internal) servers and cloud instances typically are not a good option because they are often not stable in terms of permissions, availability and persistence. Therefore, it is recommended to use GitHub linked with Zenodo, or, if you are not using GitHub, host materials on Zenodo. If Zenodo is not an option, you can also use other repositories like Figshare, or institutional repositories. 
 
 **@ELIXIR:** we recommend using GitHub linked with Zenodo. As mentioned above, if GitHub is not used, materials can be hosted on Zenodo.
 
@@ -43,11 +43,9 @@ In order to make materials open for re-use, it is important that potential re-us
 
 Using version control like git is a great way to share and collaborate on training materials. You can add your materials directly in the repository, e.g. in GitHub, and let participants interact with the materials through GitHub. It is also possible to host websites with GitHub pages, which might give a nicer interface for the course participants. 
 
-**@ELIXIR:** we recommend using GitHub. You can use the following templates:
+**@ELIXIR:** we recommend using GitHub. You can use the following template:
 
-ELIXIR templates??
-- SIB GitHub [repository template](https://github.com/sib-swiss/course_template) (if you don't need a website)
-- SIB GitHub [pages template](https://github.com/sib-swiss/course_website_template) (if you want to host a website)
+- ELIXIR GitHub Lesson Template [Lesson Template]([https://github.com/sib-swiss/course_template](https://elixir-europe-training.github.io/ELIXIR-TrP-LessonTemplateInstructions-MkDocs/)
 
 ELIXIR courses are typically hosted within the [ELIXIR Training GitHub organisation](https://github.com/elixir-europe-training). Contact a member of the ELIXIR training team to get access to this organisation. If you name the repository, make sure it ends with `-training`. This way, it is clear that it is a training repository.
 
