@@ -53,7 +53,7 @@ ELIXIR courses are typically hosted within the [ELIXIR Training GitHub organisat
 
 Zenodo is a repository that allows you to deposit your materials and assign a DOI to them. It is a great way to make your materials persistent and findable. Zenodo can be used to host training materials, but also to host other materials like software, data, and publications. 
 
-<--  **@SIB:** If you are submitting course material to Zenodo, make sure you add it to the [SIB training community](https://zenodo.org/communities/sib-training/). This way, all SIB training materials are findable in one place. >
+<!--  **@SIB:** If you are submitting course material to Zenodo, make sure you add it to the [SIB training community](https://zenodo.org/communities/sib-training/). This way, all SIB training materials are findable in one place. -->
 
 ### 7. Persistent identifier
 
@@ -65,13 +65,13 @@ A persistent identifier (PID) is a long-lasting reference to a document, file, p
 
 Videos of lectures are very valuable materials for both learners and trainers to reuse materials. For sharing of videos you can use YouTube or Vimeo. These platforms are great for sharing and viewing videos, but that they are not for long-term storage. For archiving, you can use Zenodo.
 
-``` **@SIB:** we use the [SIB YouTube channel](https://www.youtube.com/@SIBTraining). More information [here](../procedure/record_lectures.md). Currently, we do not have a procedure in place for long-term storage. However, they are stored on the SIB servers.
+<!--  **@SIB:** we use the [SIB YouTube channel](https://www.youtube.com/@SIBTraining). More information [here](../procedure/record_lectures.md). Currently, we do not have a procedure in place for long-term storage. However, they are stored on the SIB servers.-->
 
 ### 9. Glittr.org
 
 Materials that are hosted on GitHub are often hard to find, especially if they are not indexed elsewhere. Glittr.org is a platform that indexes GitHub repositories and makes them findable. It also provides additional metadata based on the metadata available in the GitHub repository.
 
-``` **@SIB:** All SIB courses on GitHub should be available from Glittr.org. If your course material is missing, submit it at [https://glittr.org/contribute](https://glittr.org/contribute)
+<!--  **@SIB:** All SIB courses on GitHub should be available from Glittr.org. If your course material is missing, submit it at [https://glittr.org/contribute](https://glittr.org/contribute) -->
 
 ### 10. TeSS
 
