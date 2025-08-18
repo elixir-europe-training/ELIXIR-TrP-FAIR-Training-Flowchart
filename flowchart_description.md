@@ -45,7 +45,7 @@ Using version control like git is a great way to share and collaborate on traini
 
 **@ELIXIR:** we recommend using GitHub. You can use the following template:
 
-- ELIXIR GitHub Lesson Template [Lesson Template]([https://github.com/sib-swiss/course_template](https://elixir-europe-training.github.io/ELIXIR-TrP-LessonTemplateInstructions-MkDocs/)
+- ELIXIR GitHub Lesson Template [Lesson Template](https://elixir-europe-training.github.io/ELIXIR-TrP-LessonTemplateInstructions-MkDocs/)
 
 ELIXIR courses are typically hosted within the [ELIXIR Training GitHub organisation](https://github.com/elixir-europe-training). Contact a member of the ELIXIR training team to get access to this organisation. If you name the repository, make sure it ends with `-training`. This way, it is clear that it is a training repository.
 
@@ -53,7 +53,7 @@ ELIXIR courses are typically hosted within the [ELIXIR Training GitHub organisat
 
 Zenodo is a repository that allows you to deposit your materials and assign a DOI to them. It is a great way to make your materials persistent and findable. Zenodo can be used to host training materials, but also to host other materials like software, data, and publications. 
 
-// **@SIB:** If you are submitting course material to Zenodo, make sure you add it to the [SIB training community](https://zenodo.org/communities/sib-training/). This way, all SIB training materials are findable in one place.
+``` **@SIB:** If you are submitting course material to Zenodo, make sure you add it to the [SIB training community](https://zenodo.org/communities/sib-training/). This way, all SIB training materials are findable in one place.
 
 ### 7. Persistent identifier
 
@@ -65,24 +65,25 @@ A persistent identifier (PID) is a long-lasting reference to a document, file, p
 
 Videos of lectures are very valuable materials for both learners and trainers to reuse materials. For sharing of videos you can use YouTube or Vimeo. These platforms are great for sharing and viewing videos, but that they are not for long-term storage. For archiving, you can use Zenodo.
 
-// **@SIB:** we use the [SIB YouTube channel](https://www.youtube.com/@SIBTraining). More information [here](../procedure/record_lectures.md). Currently, we do not have a procedure in place for long-term storage. However, they are stored on the SIB servers.
+``` **@SIB:** we use the [SIB YouTube channel](https://www.youtube.com/@SIBTraining). More information [here](../procedure/record_lectures.md). Currently, we do not have a procedure in place for long-term storage. However, they are stored on the SIB servers.
 
 ### 9. Glittr.org
 
 Materials that are hosted on GitHub are often hard to find, especially if they are not indexed elsewhere. Glittr.org is a platform that indexes GitHub repositories and makes them findable. It also provides additional metadata based on the metadata available in the GitHub repository.
 
-**@SIB:** All SIB courses on GitHub should be available from Glittr.org. If your course material is missing, submit it at [https://glittr.org/contribute](https://glittr.org/contribute)
+``` **@SIB:** All SIB courses on GitHub should be available from Glittr.org. If your course material is missing, submit it at [https://glittr.org/contribute](https://glittr.org/contribute)
 
 ### 10. TeSS
 
 TeSS indexes training materials and events from various sources, including GitHub repositories. It is a great platform to make your materials findable. TeSS uses the bioschemas profile that can be automatically scraped from websites. An alternative to using bioschemas is to manually add metadata to TeSS.
 
-// **@SIB:** All SIB courses on GitHub should be available from TeSS. They can have multiple entries, one from the bioschemas markup available from the SIB website, and one from Glittr.org. These two entries contain different metadata, so it is recommended to check both entries. 
+**@ELIXIR:** ELIXIR training materials should be findable in TeSS. Contact a member of the [TeSS team](https://tess.elixir-europe.org) to have more information on how to do this steps. But if you already annotated your materials with the Bioschemas metadata, it should be fairly easy.
+
 
 ### 11. Communication
 
 Although now your materials have been made FAIR, it is important to communicate this to the world. You can do this by sharing your materials on social media, in newsletters, or by presenting them at conferences.
 
-// **@SIB:** The recommended channel for sharing your training materials is through [the SIB Training linkedin page](https://www.linkedin.com/showcase/sib-swiss-institute-of-bioinformatics-training/).
+**@ELIXIR:** The recommended channel for sharing your training materials is through the ELIXIR Weekly Brief, the ELIXIR LinkedIn pages, and any other social media that you might be using at your own institution too (the more you communicate about your materials, the merrier).
 
 
